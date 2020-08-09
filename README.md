@@ -7,7 +7,7 @@ Calendar automation test.
 		 * increment or decrement
 
 # Gif
-![](https://github.com/FahirL/FacebookRegistration-Selenium/blob/master/ftselenium.gif)
+![](https://github.com/FahirL/CalendarAutomation-Selenium/blob/master/calselenium.gif)
 
 # selenium-webdriver
 
