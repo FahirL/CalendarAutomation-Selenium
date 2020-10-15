@@ -1,4 +1,4 @@
-# FacebookRegistration-Selenium
+# CalendarAutomation-Selenium
 
 Calendar automation test. 
 		 * target day, month, year
